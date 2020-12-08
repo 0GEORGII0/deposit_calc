@@ -1,0 +1,1 @@
+gcc -Wall -Werror -c main.cpp
